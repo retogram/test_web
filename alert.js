@@ -1,1 +1,3 @@
-  alert("Я JavaScript!");
+"use strict";
+alert("Всплывающее окно");
+alert("Второе всплывающее окно");
